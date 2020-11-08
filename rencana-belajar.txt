@@ -1,0 +1,5 @@
+Rencana Belajar
+
+- Cari pengertian Fullstack Web Development
+- Cari Tutorial Git
+- Cari Perintah Dasar CLI

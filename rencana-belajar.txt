@@ -1,5 +1,7 @@
 Rencana Belajar
 
 - Cari pengertian Fullstack Web Development
+ * Mencari pengertian Front-End
+ * Mencari pengertian Back-End
 - Cari Tutorial Git
 - Cari Perintah Dasar CLI
